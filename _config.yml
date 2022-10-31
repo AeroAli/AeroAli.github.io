@@ -4,3 +4,6 @@ plugins:
 
 title: Ali's Website 
 description: Ali's website for their public projects 
+
+baseurl: ""
+url: "https:AeroAli.github.io"
