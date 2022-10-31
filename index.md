@@ -8,6 +8,6 @@ I program when bored
 
 ## Current Public Projects
 
-- [Discord Bot](https://github.com/AeroAli/AliBot)
+- [Discord Bot](https://aeroali.github.io/AliBot/)
   - Python 
     - utilises discord.py
